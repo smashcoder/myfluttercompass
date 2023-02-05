@@ -1,6 +1,6 @@
 # simplecompass
 
-A new Flutter project.
+This project is not fully uploaded on github due to large size issue that has being occured while uploading on GitHub.
 
 ## Getting Started
 
