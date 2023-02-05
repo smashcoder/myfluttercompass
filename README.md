@@ -1,6 +1,14 @@
-# simplecompass
+# Simple Compass
 
-A new Flutter project.
+This project is a simple compass which shows direction on the basis of the sensors that are installed in the particular device.
+
+# Note : IMPORTANT !!!
+
+Before Opening the project, please unzip all the files which are zipped present in the build folder.
+
+# Issue :
+
+This Project only work on an android emulator or device
 
 ## Getting Started
 
